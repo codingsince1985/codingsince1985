@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Jerry Zhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingsince1985&show_icons=true&theme=solarized-light)
+![Jerry Zhao's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codingsince1985&layout=compact&theme=solarized-light)
+
 <!--
 **codingsince1985/codingsince1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
