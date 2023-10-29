@@ -8,7 +8,7 @@ I craft business values in simplest way that makes
 happy altogether.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=codingsince1985&theme=solarized-light)
-![Jerry Zhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingsince1985&show_icons=true&count_private=true&theme=solarized-light)
+![Jerry Zhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingsince1985&show_icons=true&theme=solarized-light)
 
 
 <!--
